@@ -1,0 +1,77 @@
+/* body {
+    /* background-image: url(./POOPython.png); */
+    /*background-repeat determina a posição da imagem */
+    /* background-repeat: no-repeat;  */
+    /*background-attachment determina se a imagem ficara fica no lugar ao scrollar ou fixa. 
+    O valor "fixed" deixa a imagem fixa, se vc scrollar para baixo e para cima a imagem ira acompanhar.
+    Ja o valor q vem como padrão "scroll" deixa a imagem no lugar ao scrollar
+    */
+    /* background-attachment: scroll; */
+
+
+h1 {
+    color: blue;
+    text-align: center;
+    text-decoration: overline; /*Coloca linhas em cima*/
+}
+h2 {
+    color:red;
+    text-align: right;
+    text-decoration: line-through; /*Coloca uma linha no meio do texto*/
+}
+h3 {
+    color: green;
+    text-align: end;
+    text-decoration: underline; /*Adicionad uma linha embaixo do texto */
+}
+
+h4 {
+    color: blueviolet;
+    text-align: center;
+    text-decoration: blink; /*Pisca o  text, nem todos os browser aceitam*/
+}
+
+a {
+    text-decoration: none; /*Remove a linha*/
+}
+
+.text1 {
+    text-transform: uppercase;
+}
+
+.text2 {
+    text-transform: lowercase;
+}
+
+.text3 {
+    text-transform: capitalize;
+}
+
+.text4 {
+    text-indent: 20px;
+}
+
+.list1 {
+    list-style-type: circle;
+}
+
+.list2 {
+    list-style-type: square;
+}
+
+.list3 {
+    list-style-type: upper-roman;
+}
+
+.list4 {
+    list-style-type: lower-alpha ;
+}
+
+.list5 {
+    list-style-image:  url(./POOPython.png);
+}
+
+table, td, tr {
+    border: solid 1px black;
+    /* border-collapse: collapse; */
+}
