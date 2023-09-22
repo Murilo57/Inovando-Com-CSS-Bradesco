@@ -1,0 +1,22 @@
+body {
+    margin: 100px 40px 10px 70px;
+}
+
+h1 {
+    background-color: orange;
+    padding: 10px 10px 10px 30px;
+}
+
+p {
+    background-color: yellow;
+    padding-left: 50px;
+}
+
+#img {
+    float: left;
+    width: 100px;
+}
+
+.lb {
+    clear: both;
+}
