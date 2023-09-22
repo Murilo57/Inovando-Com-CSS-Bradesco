@@ -1,0 +1,17 @@
+.id1 {
+    background-color: green;
+    border: solid 2px blue;
+}
+
+.id2 {
+    background-color: aqua;
+    border: solid 2px red;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 20px;
+}
